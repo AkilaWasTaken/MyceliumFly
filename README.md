@@ -1,6 +1,6 @@
 # MyceliumFly
 
-MyceliumFly is a Bukkit plugin designed to allow players to fly while standing on mycelium blocks, but only within claims defined by the GriefPrevention plugin.
+MyceliumFly is a Bukkit plugin designed to allow players to fly while standing on griefprevention claims, but only within the person has the permission `mycelium.fly`
 
 ## Dependencies
 
@@ -17,7 +17,7 @@ This plugin depends on the following plugins:
 
 ## Usage
 
-Once the plugin is installed and running, players will be able to fly while standing on mycelium blocks, but only within claims defined by GriefPrevention. In order to use this feature, players must have the permission node `mycelium.fly` granted to them by LuckPerms.
+Once the plugin is installed and running, players will be able to fly while standing in griefprevention claims. In order to use this feature, players must have the permission node `mycelium.fly` granted to them by LuckPerms.
 
 ## Configuration
 
@@ -25,7 +25,7 @@ There is no configuration necessary for this plugin.
 
 ## Support
 
-If you experience any issues or have any questions, please open an issue on the [GitHub repository](https://github.com/akila32/MyceliumFly).
+If you experience any issues or have any questions, please open an issue on the [GitHub repository](https://github.com/AkilaWasTaken/MyceliumFly).
 
 ## Credits
 
