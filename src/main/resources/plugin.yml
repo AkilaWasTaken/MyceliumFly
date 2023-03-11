@@ -1,0 +1,4 @@
+name: MyceliumFly
+version: '${project.version}'
+main: fun.akila.myceliumfly.MyceliumFly
+api-version: 1.17
